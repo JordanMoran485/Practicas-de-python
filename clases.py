@@ -16,4 +16,5 @@ persona2 = Persona("Jose, Flores, 23")
 persona1.saludar()
 persona2.comer()
 
-print(persona1.)
+print(persona1.saludar())
+print(persona2.comer())
